@@ -16,5 +16,5 @@ public class Mul {
 		if(j==n)
 			System.out.println("A prime!");
 	}
-
+	
 }
